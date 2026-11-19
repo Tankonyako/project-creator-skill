@@ -1,0 +1,11 @@
+{
+  "name": "project-creator-skill",
+  "owner": { "name": "project-creator-skill" },
+  "plugins": [
+    {
+      "name": "project-kit",
+      "source": "./",
+      "description": "Project setup, architecture, code style, tests and verification skills."
+    }
+  ]
+}
