@@ -1,7 +1,7 @@
 ---
 name: project-style
-description: My strict code style (Allman braces, comments only for the why) adapted per language. Use when writing or editing code or when asked about formatting or comments. The project's docs/code-style.md overrides these defaults.
-argument-hint: [file or folder to check]
+description: "My strict code style (Allman braces, comments only for the why) adapted per language. Use when writing or editing code or when asked about formatting or comments. The project's docs/code-style.md overrides these defaults."
+argument-hint: "[file or folder to check]"
 ---
 
 # Code style

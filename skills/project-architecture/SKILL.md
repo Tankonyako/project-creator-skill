@@ -1,7 +1,7 @@
 ---
 name: project-architecture
-description: My project architecture: standalone services, layered folders, modules, types in separate files, docs layout, DB rules. Use when creating a project, service, module or folder, deciding where code goes, or writing plans and API docs.
-argument-hint: [feature or folder to place]
+description: "My project architecture: standalone services, layered folders, modules, types in separate files, docs layout, DB rules. Use when creating a project, service, module or folder, deciding where code goes, or writing plans and API docs."
+argument-hint: "[feature or folder to place]"
 ---
 
 # Architecture

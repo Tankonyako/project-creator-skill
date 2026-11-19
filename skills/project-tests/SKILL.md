@@ -1,7 +1,7 @@
 ---
 name: project-tests
-description: My test conventions: tests in their own folder (never beside source), unit / integration / e2e levels, fixtures and setup helpers, run only the affected ones. Use when writing, placing, naming or running tests.
-argument-hint: [thing to test]
+description: "My test conventions: tests in their own folder (never beside source), unit / integration / e2e levels, fixtures and setup helpers, run only the affected ones. Use when writing, placing, naming or running tests."
+argument-hint: "[thing to test]"
 ---
 
 # Tests

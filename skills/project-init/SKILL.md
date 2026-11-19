@@ -1,8 +1,8 @@
 ---
 name: project-init
-description: Set up a project my way. Interviews (what it is, mono or single repo, stack, comments, style, tests, verify), then writes CLAUDE.md, docs/code-style.md, lint and format configs, docs skeleton and a verify script.
+description: "Set up a project my way. Interviews (what it is, mono or single repo, stack, comments, style, tests, verify), then writes CLAUDE.md, docs/code-style.md, lint and format configs, docs skeleton and a verify script."
 disable-model-invocation: true
-argument-hint: [defaults]
+argument-hint: "[defaults]"
 ---
 
 # project-init

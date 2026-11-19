@@ -1,7 +1,7 @@
 ---
 name: project-verify
-description: Verification pattern: after building or changing something, check it for real and save proof (screenshots, logs, NOTES.md) in docs/verify/<date>/<theme>/, with a Puppeteer step runner. Use after finishing UI, forms, scraper, email or API work, or when asked to verify.
-argument-hint: [theme or what to verify]
+description: "Verification pattern: after building or changing something, check it for real and save proof (screenshots, logs, NOTES.md) in docs/verify/<date>/<theme>/, with a Puppeteer step runner. Use after finishing UI, forms, scraper, email or API work, or when asked to verify."
+argument-hint: "[theme or what to verify]"
 ---
 
 # Verify

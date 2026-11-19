@@ -19,9 +19,9 @@ Each skill is also a slash command:
 With the [skills CLI](https://github.com/vercel-labs/skills) (works for Claude Code and other agents; needs Node):
 
 ```bash
-npx skills add <github-user>/project-creator-skill            # pick skills and agents interactively
-npx skills add <github-user>/project-creator-skill --list     # list what is inside first
-npx skills add <github-user>/project-creator-skill -g -y      # all skills, global, no prompts
+npx skills add Tankonyako/project-creator-skill            # pick skills and agents interactively
+npx skills add Tankonyako/project-creator-skill --list     # list what is inside first
+npx skills add Tankonyako/project-creator-skill -g -y      # all skills, global, no prompts
 ```
 
 This keeps the command names as written above (`/project-init`).
@@ -29,7 +29,7 @@ This keeps the command names as written above (`/project-init`).
 As a Claude Code plugin instead (commands become `/project-kit:project-init`):
 
 ```
-/plugin marketplace add <github-user>/project-creator-skill
+/plugin marketplace add Tankonyako/project-creator-skill
 /plugin install project-kit@project-creator-skill
 ```
 
